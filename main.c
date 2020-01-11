@@ -18,8 +18,8 @@ void mnozenie()
 //Eryk
 void dzielenie()
 {
-    double x, y;
-    printf("Wpisz prosze dzielna i dzielnik:")
+    float x, y;
+    printf("Wpisz prosze dzielna i dzielnik:");
     scanf("%f",&x);
     scanf("%f",&y);
     if(y==0) printf("Pamietaj cholero nie dziel przez 0!!!11");
