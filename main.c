@@ -19,6 +19,11 @@ void mnozenie()
 void dzielenie()
 {
     double x, y;
+    printf("Wpisz prosze dzielna i dzielnik:")
+    scanf("%f",&x);
+    scanf("%f",&y);
+    if(y==0) printf("Pamietaj cholero nie dziel przez 0!!!11");
+    else printf("%f", x/y);
 }
 int main()
 {
@@ -34,7 +39,7 @@ int main()
         odejmowanie();
         break;
     case 3:
-        mno¿enie();
+        mnozenie();
         break;
     case 4:
         dzielenie();
