@@ -18,7 +18,7 @@ void mnozenie()
 //Eryk
 void dzielenie()
 {
-
+    double x, y;
 }
 int main()
 {
