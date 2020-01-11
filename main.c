@@ -1,22 +1,22 @@
 #include <stdio.h>
 #include <stdlib.h>
 //Mateusz N.
-void dodawanie(int a, int b)
+void dodawanie()
 {
 
 }
 //Mateusz K.
-void odejmowanie(int a, int b)
+void odejmowanie()
 {
 
 }
 //Dawid
-void mno¿enie(int a, int b)
+void mno¿enie()
 {
 
 }
 //Eryk
-void dzielenie(double a, double b)
+void dzielenie()
 {
 
 }
