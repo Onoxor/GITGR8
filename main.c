@@ -11,7 +11,7 @@ void odejmowanie()
 
 }
 //Dawid
-void mno¿enie()
+void mnozenie()
 {
 
 }
