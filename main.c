@@ -12,7 +12,7 @@ void odejmowanie()
     printf("Podaj 2 liczby:\n");
     scanf("%d",&x);
     scanf("&d",&y);
-    printf("Wy");
+    printf("Wynik:");
 
 }
 //Dawid
