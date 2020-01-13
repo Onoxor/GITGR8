@@ -21,7 +21,7 @@ void mnozenie()
     printf ("Wpisz liczby, ktore chcesz pomnozyc:");
     scanf("%d",&x);
     scanf("%d",&y);
-    printf("%d," x*y);
+    printf("%d", x*y);
 }
 //Eryk
 void dzielenie()
