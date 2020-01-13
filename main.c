@@ -11,6 +11,8 @@ void odejmowanie()
     int x,y;
     printf("Podaj 2 liczby:\n");
     scanf("%d",&x);
+    scanf("&d",&y);
+
 
 
 }
