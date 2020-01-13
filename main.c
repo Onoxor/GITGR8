@@ -13,7 +13,6 @@ void odejmowanie()
     scanf("%d",&x);
 
 
-
 }
 //Dawid
 void mnozenie()
