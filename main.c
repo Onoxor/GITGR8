@@ -9,7 +9,9 @@ void dodawanie()
 void odejmowanie()
 {
     int x,y;
-    printf("..");
+    printf("Podaj 2 liczby:\n");
+    scanf("%d",&x);
+
 
 }
 //Dawid
