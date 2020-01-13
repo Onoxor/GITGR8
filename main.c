@@ -18,7 +18,7 @@ void odejmowanie()
 void mnozenie()
 {
     int x, y;
-    printf (" ")
+    printf ("Wpisz liczby, ktore chcesz pomnozyc:")
 }
 //Eryk
 void dzielenie()
