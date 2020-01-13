@@ -8,6 +8,8 @@ void dodawanie()
 //Mateusz K.
 void odejmowanie()
 {
+    int x,y;
+    printf("..");
 
 }
 //Dawid
