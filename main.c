@@ -21,7 +21,7 @@ void odejmowanie()
 //Dawid
 void mnozenie()
 {
-
+    int x, y;
 }
 //Eryk
 void dzielenie()
