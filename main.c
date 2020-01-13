@@ -22,6 +22,7 @@ void odejmowanie()
 void mnozenie()
 {
     int x, y;
+    printf (" ")
 }
 //Eryk
 void dzielenie()
