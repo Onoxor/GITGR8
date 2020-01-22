@@ -7,7 +7,7 @@ void dodawanie()
     printf("Podaj 2 liczby: \n");
     scanf("%d", &x);
     scanf("%d", &y);
-    printf("Wynik:%d", x+y);
+    printf("Wynik:%d ", x+y);
 }
 //Mateusz K.
 void odejmowanie()
