@@ -5,6 +5,7 @@ void dodawanie()
 {
     int x,y;
     printf("Podaj 2 liczby: \n");
+    scanf("%d", &x);
 
 }
 //Mateusz K.
