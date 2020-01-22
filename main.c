@@ -4,7 +4,7 @@
 void dodawanie()
 {
     int x,y;
-    printf("Podaj 2 liczby:");
+    printf("Podaj 2 liczby: \n");
 
 }
 //Mateusz K.
