@@ -3,6 +3,7 @@
 //Mateusz N.
 void dodawanie()
 {
+    int x,y;
 
 }
 //Mateusz K.
