@@ -36,6 +36,7 @@ void dzielenie()
     scanf("%f",&y);
     if(y==0) printf("Pamietaj cholero nie dziel przez 0!!!11");
     else printf("%f", x/y);
+       printf("\n\nFajnie sie dzieli, co nie?");
 }
 int main()
 {
