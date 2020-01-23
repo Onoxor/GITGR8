@@ -22,6 +22,7 @@ void mnozenie()
     scanf("%d",&x);
     scanf("%d",&y);
     printf("%d", x*y);
+    printf("test pullrequest");
 }
 //Eryk
 void dzielenie()
