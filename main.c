@@ -8,7 +8,7 @@ void dodawanie()
     scanf("%d", &x);
     scanf("%d", &y);
     printf("Wynik:%d ", x+y);
-    printf("BRAWO TO WYNIK");
+    printf("BRAWO TO NIE WYNIK");
 }
 //Mateusz K.
 void odejmowanie()
