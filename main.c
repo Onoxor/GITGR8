@@ -3,7 +3,11 @@
 //Mateusz N.
 void dodawanie()
 {
-
+    int x,y;
+    printf("Podaj 2 liczbyyy: \n");
+    scanf("%d", &x);
+    scanf("%d", &y);
+    printf("Wynik:%d ", x+y);
 }
 //Mateusz K.
 void odejmowanie()
