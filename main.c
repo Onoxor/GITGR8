@@ -31,7 +31,7 @@ void mnozenie()
 void dzielenie()
 {
     float x, y;
-    printf("Wpisz dzielnta i dzielniczek:");
+    printf("Wpisz prosze dzielna i dzielnik:");
     scanf("%f",&x);
     scanf("%f",&y);
     if(y==0) printf("Pamietaj cholero nie dziel przez 0!!!11");
